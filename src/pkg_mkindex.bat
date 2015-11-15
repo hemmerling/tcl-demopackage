@@ -1,0 +1,1 @@
+tclsh pkg_mkindex.tcl
